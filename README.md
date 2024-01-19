@@ -1,4 +1,4 @@
-# ocr_helpers
+# ocr_helpers v0.1
 A repository with some ocr helpers
 
 ## Folders
@@ -18,5 +18,5 @@ Using pytesseract package.
 ## Notes
 To create diagrams, we must use the following command:
 ```
-$ pyreverse -o png ./
+$ pyreverse -o png ./ --colorized -d diagrams -p 'ocr_helpers <<put the version here>>'
 ```
