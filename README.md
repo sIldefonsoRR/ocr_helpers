@@ -13,3 +13,10 @@ https://scenex.jina.ai/api?ref=jina-ai-gmbh.ghost.io
 
 - tesseract
 Using pytesseract package.
+
+
+## Notes
+To create diagrams, we must use the following command:
+```
+$ pyreverse -o png ./
+```
